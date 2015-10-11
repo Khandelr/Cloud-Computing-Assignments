@@ -1,0 +1,12 @@
+JobID: kmeans-map-reduceccb9d7c0-c85a-11e3-97c6-2bf17bb05302
+1    [main] INFO  cgl.imr.client.TwisterDriver  - Configure Mappers through the partition file, please wait....
+16811 [main] INFO  cgl.imr.client.TwisterDriver  - Configuring Mappers through the partition file is completed. 
+248.9289511117766 , 374.9312719922138 , 250.67577549849017 , 
+249.8726739963435 , 125.06291166821107 , 248.2027598988204 , 
+Total Time for kemeans : 33.202
+Total loop count : 11
+30502 [main] INFO  cgl.imr.client.TwisterDriver  - MapReduce computation termintated gracefully.
+------------------------------------------------------
+Kmeans clustering took 33.267 seconds.
+------------------------------------------------------
+30512 [Thread-0] DEBUG cgl.imr.client.ShutdownHook  - Shutting down completed.
